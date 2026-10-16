@@ -1,0 +1,17 @@
+# Eclipse and Spring Tools metadata
+.metadata/
+.classpath
+.project
+.settings/
+
+# Maven build output
+target/
+
+# IDE and local environment files
+.idea/
+*.iml
+*.log
+
+# Local OS files
+Thumbs.db
+.DS_Store
